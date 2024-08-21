@@ -89,7 +89,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("🌸====『*★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀  ཫ༄𒁍≛वरुण धावाल *★᭄ ཫ༄𒁍≛ 』====🌸__________________________________ Tu Hai Btc. BhoSDK MDRXOD ME TO BOT HU", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Mai hi tera malik abhishek") || (event.body.toLowerCase() == "abhishek yadav hu bsdk") || (event.body.toLowerCase() == "Mai tera owner hu abhishek yadav") || (event.body.toLowerCase() == "Malik hu tera vinod yadav")) {
+   if ((event.body.toLowerCase() == "Mai hi tera malik varun") || (event.body.toLowerCase() == "abhishek yadav hu bsdk") || (event.body.toLowerCase() == "Mai tera owner hu abhishek yadav") || (event.body.toLowerCase() == "Malik hu tera vinod yadav")) {
      return api.sendMessage("🌸====『*★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀  ཫ༄𒁍≛वरुण धावाल *★᭄ ཫ༄𒁍≛ 』====🌸__________________________________ सॉरी अभिषेक मलिक अब नहीं करूंगा___ 🥺🙏", threadID);
    };
 
