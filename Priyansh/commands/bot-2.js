@@ -232,7 +232,7 @@ if ((event.body.toLowerCase() == "chuma de") || (event.body.toLowerCase() == "ki
    (event.body.includes("aayush") == 1 ||
    (event.body.includes("bhabhi") == 1 )))))))) {
     var msg = {
-      body: `✧════•❁${name}❁•════✧\n\n ${rand}`
+      body: `                                ✧══════•❁❁•══════✧                                                                      ${rand}                                                                ✧══════•❁❁•══════✧`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
