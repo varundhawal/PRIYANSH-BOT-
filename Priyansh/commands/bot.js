@@ -119,3 +119,15 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "bot k bacche") || (event.body.toLowerCase() == "Bot ke bachche")) {
+mess = "{name}"
+  
+  if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
+    var msg = {
+      body: `${name}, ${rand}`
+    }
+    return api.sendMessage(msg, threadID, messageID);
+  };
+
+}
+
+module.exports.run = function({ api, event, client, __GLOBAL }) { }
