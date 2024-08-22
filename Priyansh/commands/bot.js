@@ -285,22 +285,6 @@ if ((event.body.toLowerCase() == "good night") || (event.body.toLowerCase() == "
   if ((event.body.toLowerCase() == "love you") || (event.body.toLowerCase() == "i love you")) {
      return api.sendMessage("𝗜 𝗟𝗼𝘃𝗲 𝘆𝗼𝘂 𝘁𝗼𝗼 𝗝𝗮𝗮𝗻 😘", threadID);
    };
-
-if ((event.body.toLowerCase() == "surya") || (event.body.toLowerCase() == "captan surya") || (event.body.toLowerCase() == "capitan surya") || (event.body.toLowerCase() == "captan") || (event.body.toLowerCase() == "surya kon hai") || (event.body.toLowerCase() == "captan surya kon hai") || (event.body.toLowerCase() == "capitan surya kaun hai") || (event.body.toLowerCase() == "capitan surya kon hai") || (event.body.toLowerCase() == "captan surya kaun hai") || (event.body.toLowerCase() == "surya kaun hai")) {
-    return api.sendMessage("YAH EK CHUDA HUA TATATA HAI OR JAHA JATA HAI WAHI CHUD JATA HAI ISKI GAND FAD CHUDAI KISI NE KIA THA OR DAILY GAND MARANE WALA TATATA HAI YAH SALA HIJDA LAUNDIYABAZI KARTA HAI ISKI GIRLFRIEND HOTE HUYE BHI ISKI GIRLFRIEND ISKO BAHUT PEYAR KARTI HAI LEKIN YAH DUSRI LADKIYON SE MUH MARTA FIRTA HAI OR YAH APNI GIRLFRIEND LE SAMNE BAS DIKHWA KARTA HAI KI KI MAIN USKA BOYFRIEND HUN FACBOOK PE HAR LADKI KE  INBOX 📥 ME JA KE HI,HELLO,HLW,👍🏻BHEJTA HAI OR ISSE KOI LADKI THODI BAAT KYA LAR LE TO YE USKI APNI GIRLFRIEND TAK BANANE KE LIYE PAHLE USKO PROPOS KARTA HAI OR  OR AGR LADKI ACCEPT KAR LETI HAI ISKA PROPOSAL TO YAH USKE SATH SEX CHAT KARTA HAI OR BAD JAB ISKA MAN BHAT JATA HAI TO YAH FIR US LADKI KO JALIL KARTA HAI OR YADI LADKI USKA PROPOSAL ACCEPT NHI KARTI HAI TO YAH US LADKI KO GALIYA DETA HAI OR US LADKI KO BEIJJAT KARTA HAI ", threadID);
-   };
-   
-if ((event.body.toLowerCase() == "nidhi") || (event.body.toLowerCase() == "nidhi jaiswal")) {
-    return api.sendMessage("Yeh tharki ladki ko kyu bula rahe bo isse baat karna hai to iske inbox 📥me kr lo baby" , threadID);
-   };
-
-if ((event.body.toLowerCase() == "alisha kardam") || (event.body.toLowerCase() == "riddhi") || (event.body.toLowerCase() == "riddhi panday") || (event.body.toLowerCase() == "kajal kumari") || (event.body.toLowerCase() == "alisha")) {
-    return api.sendMessage("NO DATA AVAILABLE 🙄 👈🏻" , threadID);
-    };
-
-if ((event.body.toLowerCase() == "yaara") || (event.body.toLowerCase() == "yara") || (event.body.toLowerCase() == "yaar") || (event.body.toLowerCase() == "babu")) {
-    return api.sendMessage("KAISE HO YAARA 😍" , threadID);
-    };
   
    mess = "{name}"
   
