@@ -291,7 +291,7 @@ if ((event.body.toLowerCase() == "surya") || (event.body.toLowerCase() == "capta
    };
    
 if ((event.body.toLowerCase() == "nidhi") || (event.body.toLowerCase() == "nidhi jaiswal")) {
-    return api.sendMessage("Yeh tharki ladki ko kyu bula rahe bo isse baat karna hai to yah raha link is pe click kar ke iske inbox 📥 me baat karo link 🔗 https://www.facebook.com/profile.php?id=100070577896732" , threadID);
+    return api.sendMessage("Yeh tharki ladki ko kyu bula rahe bo isse baat karna hai to iske inbox 📥me kr lo baby" , threadID);
    };
 
 if ((event.body.toLowerCase() == "alisha kardam") || (event.body.toLowerCase() == "riddhi") || (event.body.toLowerCase() == "riddhi panday") || (event.body.toLowerCase() == "kajal kumari") || (event.body.toLowerCase() == "alisha")) {
