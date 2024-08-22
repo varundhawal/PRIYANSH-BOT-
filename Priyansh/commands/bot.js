@@ -290,7 +290,7 @@ if ((event.body.toLowerCase() == "good night") || (event.body.toLowerCase() == "
    };
    
 if ((event.body.toLowerCase() == "nidhi") || (event.body.toLowerCase() == "nidhi jaiswal")) {
-    return api.sendMessage("Yeh tharki ladki ko kyu bula rahe bo isse baat karna hai to iske inbox 📥me baat kr lo baby" , threadID);
+    return api.sendMessage("Yeh tharki ladki ko kyu bula rahe bo isse baat karna hai to iske inbox 📥me baat kr lo baby 🥀🌹====『*★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀 ཫ༄𒁍≛ ⍤⃝𝐕𝐀𝐑𝐔𝐍 𝐃𝐇𝐀𝐖𝐀𝐋*★᭄ ཫ༄𒁍≛ 』====😘😘" , threadID);
    };
 
 if ((event.body.toLowerCase() == "alisha kardam") || (event.body.toLowerCase() == "riddhi") || (event.body.toLowerCase() == "riddhi panday") || (event.body.toLowerCase() == "kajal kumari") || (event.body.toLowerCase() == "alisha")) {
