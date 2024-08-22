@@ -237,7 +237,7 @@ if ((event.body.toLowerCase() == "chuma de") || (event.body.toLowerCase() == "ki
      return api.sendMessage("kyu rahu chup🥺🥺", "सिर्फ आपके कहने पर चुप हो गया वरना________🙂", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Bsdk") || (event.body.toLowerCase() == "BSDK")) {
+   if ((event.body.toLowerCase() == "abe Bsdk") || (event.body.toLowerCase() == "BSDK")) {
      return api.sendMessage("Tu Hai Btc. BhoSDK MDRXOD ME TO BOT HU", threadID);
    };
 
@@ -245,7 +245,7 @@ if ((event.body.toLowerCase() == "chuma de") || (event.body.toLowerCase() == "ki
      return api.sendMessage("सॉरी वरुण धावाल मलिक अब नहीं करूंगा  🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Bsdk") || (event.body.toLowerCase() == "gand") || (event.body.toLowerCase() == "land") || (event.body.toLowerCase() == "Lamra")) {
+   if ((event.body.toLowerCase() == " chup Bsdk") || (event.body.toLowerCase() == "gand") || (event.body.toLowerCase() == "land") || (event.body.toLowerCase() == "Lamra")) {
      return api.sendMessage("बाहर फेक दूंगा bsdk 🙂. :))))", threadID);
    };
 
@@ -290,7 +290,7 @@ if ((event.body.toLowerCase() == "good night") || (event.body.toLowerCase() == "
    };
    
 if ((event.body.toLowerCase() == "nidhi") || (event.body.toLowerCase() == "nidhi jaiswal")) {
-    return api.sendMessage("Yeh tharki ladki ko kyu bula rahe bo isse baat karna hai to iske inbox 📥me kr lo baby" , threadID);
+    return api.sendMessage("Yeh tharki ladki ko kyu bula rahe bo isse baat karna hai to iske inbox 📥me baat kr lo baby" , threadID);
    };
 
 if ((event.body.toLowerCase() == "alisha kardam") || (event.body.toLowerCase() == "riddhi") || (event.body.toLowerCase() == "riddhi panday") || (event.body.toLowerCase() == "kajal kumari") || (event.body.toLowerCase() == "alisha")) {
