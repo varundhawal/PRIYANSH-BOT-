@@ -1,3 +1,4 @@
+ion({ api, event, client, __GLOBAL }) { }
 const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
   name: "goibot",
@@ -290,15 +291,15 @@ if ((event.body.toLowerCase() == "surya") || (event.body.toLowerCase() == "capta
    };
    
 if ((event.body.toLowerCase() == "nidhi") || (event.body.toLowerCase() == "nidhi jaiswal")) {
-    return api.sendMessage("YAH EK YESI INSAN  HAI JO APME BHAI TAK KO NHI CHHORI ISNE APNE BHAI SE JO BHI BATEN KARTI THI INBOX ME EK DIN THODA JHAGDA HO GYA THA KISI NAAT KO LEKAR OR YAH APNE BHAI KE INBOX KI SARI SCREENSHOT APNE FRIENDS KE KE SATH SHARE KI OR UN SAB SCREENSHOT KO KAI GROUPS ME SCREENSHOT KO SHARE KI OR YAH APNE BHAI KO JALIL OR BEIJJAT KARNE ME KO KADAR NA CHHORI APNE FAYDE KE LIYE ISME YAH SAB KIA THA " , threadID);
+    return api.sendMessage("Yeh tharki ladki ko kyu bula rahe bo isse baat karna hai to yah raha link is pe click kar ke iske inbox 📥 me baat karo link 🔗 https://www.facebook.com/profile.php?id=100070577896732" , threadID);
    };
 
-if ((event.body.toLowerCase() == "alisha kardam") || (event.body.toLowerCase() == "riddhi") || (event.body.toLowerCase() == "riddhi panday") || (event.body.toLowerCase() == "kajal kumari")) {
+if ((event.body.toLowerCase() == "alisha kardam") || (event.body.toLowerCase() == "riddhi") || (event.body.toLowerCase() == "riddhi panday") || (event.body.toLowerCase() == "kajal kumari") || (event.body.toLowerCase() == "alisha")) {
     return api.sendMessage("NO DATA AVAILABLE 🙄 👈🏻" , threadID);
     };
 
 if ((event.body.toLowerCase() == "yaara") || (event.body.toLowerCase() == "yara") || (event.body.toLowerCase() == "yaar") || (event.body.toLowerCase() == "babu")) {
-    return api.sendMessage("KAISE HO YAARA 😍" , threadID);
+    return api.sendMessage("KAISE HO YAARA 😍 𝗖𝗿𝗲𝗱𝗶𝘁'𝘀★᭄𒁍≛➸⃟̀̀⍤⃝𝐕𝐀𝐑𝐔𝐍 𝐃𝐇𝐀𝐖𝐀𝐋𒁍≛🌸✺⃘̶̶۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟̊̊̊̊̊̊͜͡?❥⃢" , threadID);
     };
   
    mess = "{name}"
