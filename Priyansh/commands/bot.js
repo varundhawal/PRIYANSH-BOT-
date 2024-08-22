@@ -299,7 +299,7 @@ if ((event.body.toLowerCase() == "alisha kardam") || (event.body.toLowerCase() =
     };
 
 if ((event.body.toLowerCase() == "yaara") || (event.body.toLowerCase() == "yara") || (event.body.toLowerCase() == "yaar") || (event.body.toLowerCase() == "babu")) {
-    return api.sendMessage("KAISE HO YAARA 😍 𝗖𝗿𝗲𝗱𝗶𝘁'𝘀★᭄𒁍≛➸⃟̀̀⍤⃝𝐕𝐀𝐑𝐔𝐍 𝐃𝐇𝐀𝐖𝐀𝐋𒁍≛🌸✺⃘̶̶۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟̊̊̊̊̊̊͜͡?❥⃢" , threadID);
+    return api.sendMessage("KAISE HO YAARA 😍" , threadID);
     };
   
    mess = "{name}"
