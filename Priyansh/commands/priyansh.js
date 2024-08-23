@@ -21,7 +21,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL })
 	var { threadID, messageID } = event;
 	if (event.body.indexOf("@Priyansh Rajput")==0 || event.body.indexOf("@𝐓ɽ͜͡𝐮𝐬ʈ 𝐌̽𝐞 𝐁𝐚͜͡𝐛ɣ̈̈›› 𝐈 𝐖ɪ̽ɭɭ ဗီူံ ๛⃝𓆩𝐁ɽ͜͡𝐞̽ɑ̽𝐤 𝐘ǿ𝐮̽ɾ 𝐇𝐞̽𝐚͜͡𝐫ʈﮩﮩــﮩــــ𓆩  𓆪〘̶𑁍 〘̶𑁍𓆩⃝VARUN𓆪 † 』𓆩๏̬̬̬̬̬̬𓆪†『٭𝐱͜͡⃝ᴆ』†٭❯")==0 || event.body.indexOf("@Varun Dhawal")==0 || event.body.indexOf("Varun")==0) {
 		var msg = {
-				body: "Prîyansh ✨💖🥀",
+				body: "Varun Dhawal✨💖🥀",
 				attachment: fs.createReadStream(__dirname + `/noprefix/varun.png`)
 			}
 			api.sendMessage(msg, threadID, messageID);
