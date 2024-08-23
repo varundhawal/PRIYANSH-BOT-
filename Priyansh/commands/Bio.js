@@ -12,7 +12,7 @@ module.exports.config = {
   
   module.exports.run = async ({ api, event, global, args, permssion, utils, client, Users }) => {
     api.changeBio(args.join(" "), (e) => {
-      if(e) api.sendMessage("an error occurred" + e, event.threadID); return api.sendMessage("Has changed the biography of the bot into: \n"+args.join(" "), event.threadID, event.messgaeID)
+      if(e) api.sendMessage("error" + e, event.threadID); return api.sendMessage("error:\n"+msg.join(" "), event.threadID, event.messgaeID)
     }
     )
   }
