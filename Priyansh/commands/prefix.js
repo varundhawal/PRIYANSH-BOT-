@@ -35,5 +35,5 @@ const prefix = threadSetting.PREFIX || global.config.PREFIX;
 };
 
 module.exports.run = async({ event, api }) => {
-    return api.sendMessage("error", event.threadID)
+    return api.sendMessage("𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐌𝐄𝐑𝐀 𝐏𝐑𝐄𝐅𝐈𝐗 𝐘𝐀𝐇👉 #", event.threadID)
 }
