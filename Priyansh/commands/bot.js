@@ -310,7 +310,7 @@ if ((event.body.toLowerCase() == "yaara") || (event.body.toLowerCase() == "yara"
    (event.body.includes("akshay") == 1 ||
   (event.body.includes("panday") == 1 ||
    (event.body.includes("bhabhi") == 1 ||
-   (event.body.includes("oye") == 1 )))))))) {
+   (event.body.includes("jaan") == 1 )))))))) {
     var msg = {
       body: `    ${name}                                                            ✧══════•❁❁•══════✧                                                              ${rand}                                                                                                   ✧══════•❁❁•══════✧       *★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀 ཫ༄𒁍≛➸⃟̀̀⍤⃝𝐕𝐀𝐑𝐔𝐍 𝐃𝐇𝐀𝐖𝐀𝐋*★᭄ ཫ༄𒁍≛🌸✺۟❥⃢❀͙̽`
     }
